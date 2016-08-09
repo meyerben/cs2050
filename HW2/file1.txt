@@ -1,0 +1,9 @@
+Skullcrusher | 900 | 12 | 75 | 7
+Steve | 500 | 10 | 50 | 13
+Vayne | 750 | 20 | 125 | 4
+Engraved.Rapier | 900 | 34
+Mithril.Cutlass | 1866 | 41
+Piece.Maker,.Dark.Blade.of.Storms | 9046 | 58
+Wooden.Shield | 150 | 5
+Targe | 530 | 23
+Champion's.Aegis | 400 | 30

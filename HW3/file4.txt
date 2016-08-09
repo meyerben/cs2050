@@ -1,0 +1,9 @@
+Roc | 5000 | 50 | 25 | 1
+Calen | 1000 | 10 | 80 | 5
+Steve | 500 | 10 | 50 | 13
+NULL | 0 | 0 | NULL 
+NULL | 0 | 0 | NULL 
+NULL | 0 | 0 | NULL 
+NULL | 0 | 0 | NULL 
+NULL | 0 | 0 | NULL 
+NULL | 0 | 0 | NULL 

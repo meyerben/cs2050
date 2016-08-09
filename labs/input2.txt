@@ -1,0 +1,4 @@
+3
+Hello 5 100
+Roses 3 98
+Again 4 64

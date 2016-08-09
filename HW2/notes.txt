@@ -1,0 +1,24 @@
+//This function works and makes everything pretty
+//also makes entire program seg fault when it tries to print heroes with items
+//changes "." to " "
+//I just left it out because I'm not submitting heroes.c and can't change it
+char* iLikeSpaces(char* itemName)
+{
+	char* temp = malloc(sizeof(char)*20);
+    char* s = itemName;
+    int i,j;
+    for (i=0; *(s+i)!= '\0'; i++)
+    {
+        if (*(s+i) == '.')
+        {
+            strcpy(temp,(s+i+1));
+            for (j=0; j<1; j++)
+            {
+                *(s+i+j) = ' ';
+            }
+            *(s+i+j) = '\0';
+            strcat(s,temp); 
+        }
+    }
+    return s;
+}
